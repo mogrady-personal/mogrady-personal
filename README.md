@@ -33,8 +33,8 @@ Hi there :wave: I'm Michael, a Full-Stack Developer and Junior Software Engineer
 ![MySql](https://img.shields.io/static/v1?label=mysql&labelColor=1c1c1a&message=%20&style=for-the-badge&color=1c1c1a&logo=mysql)
 ![MongoDB](https://img.shields.io/static/v1?label=mongodb&labelColor=1c1c1a&message=%20&style=for-the-badge&color=1c1c1a&logo=mongodb)
 
-[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-git&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-git/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-git&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/mogrady-git/github-readme-stats)
+[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogrady-professional&show_icons=true&theme=dark&hide=issues)](https://github.com/mogrady-professional/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogrady-professional&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/mogrady-professional/github-readme-stats)
 
 <hr>
 <p align="center">
@@ -42,7 +42,9 @@ Hi there :wave: I'm Michael, a Full-Stack Developer and Junior Software Engineer
     <p align="center">
 	    <a href="https://www.linkedin.com/in/mog-linked-in/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&labelColor=6F7071&message=%20&style=social&logo=linkedin"/></a>
 	    <a href="https://codepen.io/mog-dev"><img alt="Website" src="https://img.shields.io/static/v1?label=CodePen&labelColor=6F7071&message=%20&style=social&logo=codepen"/></a>
-	    <a href="https://github.com/mogrady-git/"><img alt="GitHub" src="https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=%20&style=social&logo=github"/></a>
+	    <a href="https://github.com
+		     
+		     /"><img alt="GitHub" src="https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=%20&style=social&logo=github"/></a>
 	    <a href="http://www.michaelogrady.net/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=Portfolio&labelColor=6F7071&message=%20&style=social&logo=appveyor&logoColor=18d26e"/></a>
     </p>
 </p>
