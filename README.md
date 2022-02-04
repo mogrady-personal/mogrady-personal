@@ -87,3 +87,10 @@
 <img src="https://readme-jokes.vercel.app/api?textColor=%18d26e&aColor=%2306d6a0&borderColor=%2306d6a0" height="auto" width="auto" alt="Jokes Card" />
 </p>
 
+<!-- https://github.com/anmol098/waka-readme-stats -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
