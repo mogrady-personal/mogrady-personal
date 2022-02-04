@@ -55,5 +55,11 @@ Hi there :wave: I'm Michael, a Full-Stack Developer and Junior Software Engineer
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&labelColor=6F7071&message=1.53-insider&style=for-the-badge&color=24bfa5&logo=visual-studio)
 ![Github](https://img.shields.io/static/v1?label=GitHub&labelColor=6F7071&message=Michael&style=for-the-badge&color=73427A&logo=github)
 -->
-
+<h2><em>Here's a Joke for you while you're here:</em>😉</h2>
+<!-- https://github.com/ABSphreak/readme-jokes 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+-->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?textColor=%18d26e&aColor=%2306d6a0&borderColor=%2306d6a0" height="auto" width="auto" alt="Jokes Card" />
+</p>
 
