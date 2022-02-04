@@ -3,7 +3,8 @@
 </p>
 <h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Personal Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
 <p align="center">🤵 Software Engineer | Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | Personal Account | Personal Projects </p>
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)
 [![gitHub followers](https://img.shields.io/github/followers/mogrady-personal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-personal?tab=followers)
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Software%20Engineering-blue" />
 <img src="https://img.shields.io/badge/Lives-Mayo,%20Ireland-18d26e" />
