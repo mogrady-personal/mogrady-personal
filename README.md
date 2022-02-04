@@ -91,6 +91,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<h2><em>Here's what I'm Listening to on Spotify:</em>😉</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316idtlscq3r54p5rsoqhla52yci&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
