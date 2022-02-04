@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo2.gif" alt="Hey there! I'm Michael" height="444px" width="480px">
+<img src="assets/logo2.gif" alt="Hey there! I'm Michael" height="444px" width="500px">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=316idtlscq3r54p5rsoqhla52yci&cover_image=true&theme=default" alt="test" />
 </p>
 <h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Personal Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
@@ -92,5 +92,3 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<h2><em>Here's what I'm Listening to on Spotify:</em>😉</h2>
-
