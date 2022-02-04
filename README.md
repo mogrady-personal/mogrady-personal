@@ -92,5 +92,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316idtlscq3r54p5rsoqhla52yci&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
