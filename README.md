@@ -12,8 +12,8 @@
                       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&duration=7000&color=030A0E&background=FFFFFF&center=true&vCenter=true&width=1200&lines=+++%F0%9F%A4%B5+Software+Engineer+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%93%8D%F0%9F%8C%8D+West+of+Ireland+%F0%9F%8F%A1%E2%98%98%EF%B8%8F+%7C+%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F+Personal+Account+%7C+%F0%9F%9A%80+Personal+Projects+++)](https://git.io/typing-svg)
 -->                    
-             
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)-->              
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors)
 <!-- ![](https://komarev.com/ghpvc/?username=mogrady-personal) -->
 [![gitHub followers](https://img.shields.io/github/followers/mogrady-personal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-personal?tab=followers)
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-blue" />
@@ -97,3 +97,8 @@
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+                                                                                                                                                   
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4caf50&height=110&section=footer&animation=twinkling"/>
+</p>
+                                                                                                                           
