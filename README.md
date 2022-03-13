@@ -7,9 +7,8 @@
 <h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Personal Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
 <p align="center">🤵 Software Engineer | 💻 Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | 🦸‍♂️ Personal Account | 🚀 Personal Projects </p>
 
-                 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=030A0E&vCenter=true&width=1100&lines=%F0%9F%A4%B5+Software+Engineer+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%93%8D%F0%9F%8C%8D+West+of+Ireland+%F0%9F%8F%A1%E2%98%98%EF%B8%8F+%7C+%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F+Personal+Account+%7C+%F0%9F%9A%80+Personal+Projects+)](https://git.io/typing-svg)
-                 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=030A0E&vCenter=true&width=1200&lines=%F0%9F%A4%B5+Software+Engineer+%7C+%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%93%8D%F0%9F%8C%8D+West+of+Ireland+%F0%9F%8F%A1%E2%98%98%EF%B8%8F+%7C+%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F+Personal+Account+%7C+%F0%9F%9A%80+Personal+Projects+)](https://git.io/typing-svg)                
+             
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)
 <!-- ![](https://komarev.com/ghpvc/?username=mogrady-personal) -->
 [![gitHub followers](https://img.shields.io/github/followers/mogrady-personal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-personal?tab=followers)
