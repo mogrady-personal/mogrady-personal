@@ -1,6 +1,6 @@
 <p align="center">
 <img src="assets/logo2.gif" alt="Hey there! I'm Michael" height="444px" width="500px">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316idtlscq3r54p5rsoqhla52yci)
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=316idtlscq3r54p5rsoqhla52yci&count=7)" alt="test" />
 </p>
 <h2 align="center">Hi there :wave: I'm Michael O'Grady. Welcome to my <em>Personal Github Account</em>	&nbsp;<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="25" height="25"/></h2>
 <p align="center">🤵 Software Engineer | 💻 Full-Stack Developer | 📍🌍 West of Ireland 🏡☘️ | 🦸‍♂️ Personal Account | 🚀 Personal Projects </p>
