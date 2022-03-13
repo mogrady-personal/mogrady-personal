@@ -8,7 +8,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mogrady-personal.visitor-badge&left_text=Visitors%20Since%20'22)
 <!-- ![](https://komarev.com/ghpvc/?username=mogrady-personal) -->
 [![gitHub followers](https://img.shields.io/github/followers/mogrady-personal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mogrady-personal?tab=followers)
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Software%20Engineering-blue" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-blue" />
 <img src="https://img.shields.io/badge/Lives-Mayo,%20Ireland-18d26e" />
 <img src="https://img.shields.io/badge/Works-Software%20Engineer-a6120d" />
 <a href="https://codepen.io/mog-dev"><img alt="Website" src="https://img.shields.io/badge/-Codepen-535648.svg?colorA=ffffff&style=flat&logoWidth=14&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIuMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMy4wNiA0MS43MzJMMzIgNjAuOTMybDI4Ljk0LTE5LjJWMjIuMjY4TDMyIDMuMDY4bC0yOC45NCAxOS4yem01Ny44NzggMEwzMiAyMi4yNjggMy4wNiA0MS43MzJtMC0xOS40NjNMMzIgNDEuNDdsMjguOTQtMTkuMk0zMiAzLjA2OHYxOS4ybTAgMTkuNDYzdjE5LjIiIHN0cm9rZS13aWR0aD0iNi4wNSIvPjwvc3ZnPg=="/></a>
